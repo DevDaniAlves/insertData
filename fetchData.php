@@ -3,9 +3,9 @@
 class Constants{
     
     static $DB_SERVER="localhost";
-    static $DB_NAME="demo000";
-    static $USERNAME="demo000";
-    static $PASSWORD="demo1";
+    static $DB_NAME="";
+    static $USERNAME="";
+    static $PASSWORD="";
     
     static $SQL_SELECT_ALL="SELECT * FROM upload WHERE id order by id desc";
 
